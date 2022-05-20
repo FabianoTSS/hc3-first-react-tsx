@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-          <p>This is my first typecript App</p>
+          <p>This is my first typescript App</p>
       </header>
     </div>
   );
