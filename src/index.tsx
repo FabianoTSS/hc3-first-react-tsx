@@ -9,7 +9,7 @@ export default function App() {
       <Routes>
           <Route path="/" element={<MainApp />} />
           <Route index element={<MainApp />} />
-          <Route path="LoginPage" element={<LoginPage />} />
+          <Route path="loginPage" element={<LoginPage />} />
           <Route path="*" element={<MainApp />} />
       </Routes>
     </BrowserRouter>
