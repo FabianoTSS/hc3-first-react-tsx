@@ -4,7 +4,7 @@ import MainApp from "./appComponents/mainApp/mainApp";
 import LoginPage from "./appComponents/loginPage/loginPage";
 import NonExistentPage from "./appComponents/nonExistentPage/nonExistentPage";
 
-export default function App() {
+function App() {
   return (
     <BrowserRouter>
       <Routes>
