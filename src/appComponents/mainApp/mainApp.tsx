@@ -6,7 +6,8 @@ export default function mainApp() {
   return (
   <div className="mainApp">
     <header className="App-header">
-      <a href='loginPage'>Click here to go to the login page</a>
+      <a href='loginPage'>LoginPage</a>
+      <a href='testAPI'>TestAPI</a>
     </header>
   </div>
   );
