@@ -3,7 +3,7 @@ import './loginPage.css';
 export default function loginPage() {
   return (
       <>
-        <p>You can't get login yet.</p>
+        <a href='/'>You can't get login yet.</a>
       </>
   );
 }
