@@ -6,7 +6,7 @@ export default function mainApp() {
   return (
     <div className="mainApp">
       <header className="App-header">
-          <p>This is my first typescript App</p>
+          <a href='./loginPage'>Click here to go to the login page</a>
       </header>
     </div>
   );
