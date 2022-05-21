@@ -1,15 +1,13 @@
 //import React from 'react';
 //import logo from './logo.svg';
-import './App.css';
+import './mainApp.css';
 
-function App() {
+export default function mainApp() {
   return (
-    <div className="App">
+    <div className="mainApp">
       <header className="App-header">
           <p>This is my first typescript App</p>
       </header>
     </div>
   );
 }
-
-export default App;
